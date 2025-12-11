@@ -1,9 +1,11 @@
 # PC-repair-technician
-I handle everything from full system repairs such as, virus/malware removal, troubleshooting specific software crashes as well as hardware upgrades!
-
+I handle everything from full system repairs such as, virus/malware removal, troubleshooting specific software crashes as well as hardware upgrades! For many years ive helped others with their tech related issues and have built over a handful
+of Personal Computers!
 <h2>Operating Systems Used </h2>
 
 - Windows 11</b> (23H2)
+- MacOS
+- Linux
 
 <h2>Personal Computer parts list</h2>
 
