@@ -3,7 +3,7 @@ I handle everything from full system repairs such as, virus/malware removal, tro
 of Personal Computers!
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> (23H2)
+- Windows</b>
 - MacOS
 - Linux
 
